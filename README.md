@@ -1,5 +1,10 @@
-#install
+# Installation
 
+Add the following to your Claude Desktop configuration to enable these MCP servers:
+
+## Configuration
+
+```json
 {
   "mcpServers": {
     "mcp-server": {
@@ -12,3 +17,8 @@
     }
   }
 }
+```
+
+## Servers
+
+- **mcp-server**: MCP deployment server
