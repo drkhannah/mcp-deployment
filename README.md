@@ -18,7 +18,3 @@ Add the following to your Claude Desktop configuration to enable these MCP serve
   }
 }
 ```
-
-## Servers
-
-- **mcp-server**: MCP deployment server
